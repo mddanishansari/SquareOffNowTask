@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Square Off Task</string>
+    <string name="default_error">It seems like something went wrong</string>
+</resources>
